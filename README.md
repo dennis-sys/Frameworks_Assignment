@@ -7,7 +7,6 @@ This project analyzes the CORD-19 metadata dataset to explore trends in COVID-19
 - `explore_data.py` — Data loading and cleaning
 - `visualizations.py` — Charts and word cloud
 - `app.py` — Streamlit application
-- `publications_by_year.png`, `top_journals.png`, etc. — Generated visuals
 - `README.md` — This file
 
 ## Key Findings
